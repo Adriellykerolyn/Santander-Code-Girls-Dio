@@ -45,7 +45,7 @@ A prática com EC2 ajudou a consolidar conceitos vistos na teoria.
 
 Snapshots são fundamentais para a proteção de dados.
 
-Entendi melhor como desligar/desalocar instâncias de teste ajuda a economizar custos.
+Entender melhor como desligar/desalocar instâncias de teste ajuda a economizar custos.
 
 Documentar cada etapa deixa o estudo mais organizado e facilita revisões futuras.
 
