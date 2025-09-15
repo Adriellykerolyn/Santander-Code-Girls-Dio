@@ -1,8 +1,8 @@
 🚀 Santander Code Girls – Anotações de Estudos
 📌 Sobre o Repositório
 
-Este repositório reúne minhas anotações, práticas e reflexões realizadas ao longo do bootcamp Santander Code Girls, com foco em AWS e computação em nuvem.
-A proposta é documentar o aprendizado de forma organizada, servindo como material de apoio para revisões futuras e também como portfólio técnico.
+Este repositório tem como objetivo consolidar conhecimentos em **gerenciamento de instâncias EC2 na AWS**.  
+O repositório contém anotações e insights adquiridos durante a prática, servindo como material de apoio para estudos e futuras implementações.
 
 📂 Estrutura
 Santander Code Girls/
